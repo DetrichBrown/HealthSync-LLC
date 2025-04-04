@@ -88,7 +88,7 @@
         <p><strong>VA Nexus Letters</strong></p>
     </div>
     <div class="images">
-        <img src="images/healthy-people1.jpg" alt="Happy and Healthy Individuals">
+        healthy-people1.jpg.jpg
         <img src="images/healthy-people2.jpg" alt="Diverse Group Living Healthy Lives">
     </div>
     <div class="container">
