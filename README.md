@@ -79,7 +79,7 @@
 <body>
     <header>
         HealthSync LLC - Telehealth Services
-        images/Headshot (1).JPG
+        <img src="images/Headshot (1).JPG" alt="Your Photo" class="profile-img">
     </header>
     <div class="container">
         <h2>Our Services</h2>
@@ -88,8 +88,8 @@
         <p><strong>VA Nexus Letters</strong></p>
     </div>
     <div class="images">
-        images/healthy-people1.jpg
-        images/healthy-people2.jp.jpg
+        <img src="images/healthy-people1.jpg" alt="Happy and Healthy Individuals">
+        <img src="images/healthy-people2.jpg" alt="Diverse Group Living Healthy Lives">
     </div>
     <div class="container">
         <h2>Health Promotion: Diet & Exercise</h2>
