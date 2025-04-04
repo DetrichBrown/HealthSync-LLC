@@ -79,7 +79,7 @@
 <body>
     <header>
         HealthSync LLC - Telehealth Services
-        ![Image](https://github.com/user-attachments/assets/16b9609c-22e1-472a-87b8-6223253588cb)
+        images/Headshot (1).JPG
     </header>
     <div class="container">
         <h2>Our Services</h2>
