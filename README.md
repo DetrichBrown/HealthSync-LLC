@@ -88,8 +88,8 @@
         <p><strong>VA Nexus Letters</strong></p>
     </div>
     <div class="images">
-        healthy-people1.jpg.jpg
-        <img src=images/healthy-people2.jpg alt="Diverse Group Living Healthy Lives">
+        ![Image](https://github.com/user-attachments/assets/32dc4d1c-8f53-479b-9edc-4d934ce2dec2)
+        ![Image](https://github.com/user-attachments/assets/32547785-0c03-4954-89e3-8d4b60035568)
     </div>
     <div class="container">
         <h2>Health Promotion: Diet & Exercise</h2>
