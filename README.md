@@ -82,9 +82,9 @@
     </header>
     <div class="container">
         <h2>Our Services</h2>
-        <p><strong>Acute Care:</strong> Common cold, viral infections, UTIs, sinus infections, and more.</p>
-        <p><strong>Chronic Disease Management:</strong> Hypertension, hypothyroidism, anxiety, depression, type 2 diabetes, high cholesterol.</p>
-        <p><strong>VA Nexus Letters</strong></p>
+        <p><strong>Acute Care:</strong> Common cold, viral infections, UTIs, heartburn, sinus infections, allergies and more.</p>
+        <p><strong>Chronic Disease Management:</strong> Hypertension, hypothyroidism, asthma, anxiety, depression, type 2 diabetes, high cholesterol, hair loss, weight management.</p>
+        <p><strong>Evaluation for VA Nexus Letters</strong></p>
     </div>
     <div class="images">
         <img src="healthy-people1.jpg.jpg" alt="Happy and Healthy Individuals">
