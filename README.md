@@ -1,4 +1,4 @@
-# healthsync-website
+# Detrich Brown MSN, APRN, FNP-C CEO and Medical Director
 <!DOCTYPE html>
 <html lang="en">
 <head>
