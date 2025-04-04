@@ -89,7 +89,7 @@
     </div>
     <div class="images">
         healthy-people1.jpg.jpg
-        <img src="images/healthy-people2.jpg" alt="Diverse Group Living Healthy Lives">
+        <img src=images/healthy-people2.jpg alt="Diverse Group Living Healthy Lives">
     </div>
     <div class="container">
         <h2>Health Promotion: Diet & Exercise</h2>
